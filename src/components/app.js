@@ -4,7 +4,7 @@ import TodosList from './todos-list';
 
 const todos = [
   {
-    task: 'eat lots',
+    task: 'eat',
     isCompleted: false
   },
   {
@@ -13,6 +13,10 @@ const todos = [
   },
   {
     task: 'sleep',
+    isCompleted: false
+  },
+  {
+    task: 'repeat',
     isCompleted: false
   }
 ];
